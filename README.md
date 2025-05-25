@@ -3,7 +3,7 @@
 - 🤖 Building smart UIs with AI integrations 
 - 🎨 Passionate about clean design & smooth UX 
 - 💬 Let’s collaborate on something fun!
-- Reach me via message or [LinkedIn](https://www.linkedin.com/in/ejsergeev)  
+- 📫 Reach me via message or [LinkedIn](https://www.linkedin.com/in/ejsergeev)  
 
 <!---
 ejsergeev/ejsergeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
